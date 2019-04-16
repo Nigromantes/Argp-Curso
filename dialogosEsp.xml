@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfDialogo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Dialogo>
+    <lineas>
+      <string>Hola viajero</string>
+      <string>Es peligroso ir solo</string>
+      <string>Toma esta espada</string>
+    </lineas>
+    <id>NPC</id>
+  </Dialogo>
+  <Dialogo>
+    <lineas>
+      <string>101</string>
+      <string>102</string>
+      <string>103</string>
+    </lineas>
+    <id>1</id>
+  </Dialogo>
+  <Dialogo>
+    <lineas>
+      <string>201</string>
+      <string>202</string>
+      <string>203</string>
+    </lineas>
+    <id>2</id>
+  </Dialogo>
+</ArrayOfDialogo>

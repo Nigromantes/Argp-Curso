@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interactivo
+  - Murallas
+  - Player
+  - Minimapa
+  - Muerto
+  - Objeto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Muralla
+    uniqueID: 3567033333
+    locked: 0
+  - name: Drop
+    uniqueID: 1394760749
+    locked: 0
+  - name: Elementos
+    uniqueID: 307388113
+    locked: 0
+  - name: Texto
+    uniqueID: 4099591167
+    locked: 0
